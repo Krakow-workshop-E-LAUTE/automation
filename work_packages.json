@@ -1,5 +1,5 @@
 {
-  "central_repository": "mei-friend/automation",
+  "central_repository": "Krakow-workshop-E-LAUTE/automation",
   "branch": "main",
   "automation_path": "run_automation.sh",
   "work_packages": [
